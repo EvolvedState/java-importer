@@ -198,6 +198,14 @@
 "java.awt.geom.Arc2D.Float",
 "java.awt.geom.Area",
 "java.awt.image.AreaAveragingScaleFilter",
+"org.jsoup.*"
+"org.jsoup.Jsoup"
+"org.jsoup.nodes.Document"
+"org.jsoup.select.Element"
+"org.jsoup.select.Elements"
+"org.Jsoup.connect"
+"org.Jsoup.parse"
+"org.Jsoup.clean"
 "org.omg.CORBA.ARG_IN",
 "org.omg.CORBA.ARG_INOUT",
 "org.omg.CORBA.ARG_OUT",
